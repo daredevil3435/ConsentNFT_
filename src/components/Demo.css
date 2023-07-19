@@ -1,0 +1,46 @@
+/* .form-container{
+    background-image: url('./Blockchain-1.jpg');
+    background-size: cover;
+    background-position: center;
+} */
+
+/* .form1{
+    color:rgb(11, 10, 11);
+    background-color: rgba(0, 0, 0, 0.484);
+    height: 600px;
+    width: 450px;
+}
+ 
+.vote,.mail,.desc,.name,.img{
+    margin-top:14px;
+    margin-bottom: 20px;
+    margin-left:20px;
+}
+
+.end{
+    height: 300px;
+    width: 300px;
+}
+
+.mail,.desc,.{
+    margin-bottom: 20px;
+    margin-top:20px;
+    margin-left:20px;
+}
+
+
+
+button{
+    color: beige;
+    background-color: black;
+}
+
+*/
+
+button{
+    color:beige;
+    background-color: black;
+    width: 80px;
+    height: 50px;
+}
+
